@@ -1,0 +1,9 @@
+C:\Users\Rick\Desktop\ElevenFiftyProjects\SD48 Gold\CSharp\BlackjackChallenge\BlackjackUI\bin\Debug\BlackjackUI.exe.config
+C:\Users\Rick\Desktop\ElevenFiftyProjects\SD48 Gold\CSharp\BlackjackChallenge\BlackjackUI\bin\Debug\BlackjackUI.exe
+C:\Users\Rick\Desktop\ElevenFiftyProjects\SD48 Gold\CSharp\BlackjackChallenge\BlackjackUI\bin\Debug\BlackjackUI.pdb
+C:\Users\Rick\Desktop\ElevenFiftyProjects\SD48 Gold\CSharp\BlackjackChallenge\BlackjackUI\obj\Debug\BlackjackUI.exe
+C:\Users\Rick\Desktop\ElevenFiftyProjects\SD48 Gold\CSharp\BlackjackChallenge\BlackjackUI\obj\Debug\BlackjackUI.pdb
+C:\Users\Rick\Desktop\ElevenFiftyProjects\SD48 Gold\CSharp\BlackjackChallenge\BlackjackUI\obj\Debug\BlackjackUI.csprojAssemblyReference.cache
+C:\Users\Rick\Desktop\ElevenFiftyProjects\SD48 Gold\CSharp\BlackjackChallenge\BlackjackUI\bin\Debug\BlackjackChallenge_Repo.dll
+C:\Users\Rick\Desktop\ElevenFiftyProjects\SD48 Gold\CSharp\BlackjackChallenge\BlackjackUI\bin\Debug\BlackjackChallenge_Repo.pdb
+C:\Users\Rick\Desktop\ElevenFiftyProjects\SD48 Gold\CSharp\BlackjackChallenge\BlackjackUI\obj\Debug\BlackjackUI.csproj.CopyComplete
